@@ -49,6 +49,16 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=De-Konstantin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
+
+
+---
 [![](https://visitcount.itsvg.in/api?id=De-Konstantin&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
